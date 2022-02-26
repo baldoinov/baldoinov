@@ -4,7 +4,7 @@
         <table align="right" width="30%" height="60"> <tr><td><a href="README.md"><img src="images/us-flag.png"> English</a></td> <td><a href="README_pt.md"><img src="images/br-flag.png"> Português</a></td> </tr> </table>
         <br><br><br>
         <p float="middle">
-            <img src="/img1.png" align="left" width="100%" height="130"/>
+            <img src="images/banner.png" align="left" width="100%" height="130"/>
         </p>
     </body>  
 </html>  
