@@ -1,7 +1,7 @@
 <!DOCTYPE html>  
 <html>  
     <body>  
-        <table align="right" width="30%" height="60"> <tr><td><a href="README.md"><img src="images/us-flag.png"> English</a></td> <td><a href="README_pt.md"><img src="images/br-flag.png"> Português</a></td> </tr> </table>
+        <table align="right" width="30%" height="60"> <tr><td><a href="README.md"><img height="15" src="images/us-flag.png"> English</a></td> <td><a href="README_pt.md"><img height="15" src="images/br-flag.png"> Português</a></td> </tr> </table>
         <br><br><br>
         <p float="middle">
             <img src="images/banner.png" align="left" width="100%" height="130"/>
