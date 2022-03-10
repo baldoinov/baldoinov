@@ -3,18 +3,12 @@
 
 # About Me
 
-```python
 
-class ThisDataGeek:
-    
-    fullname = 'Vitor Baldoino'
-    education = ['BSc. Economics', 'Technical Degree, Building Technology']
+:technologist: &nbsp; I'm an economics student with a passion for tech and data. I put the best of my abilities to generate value from the `Python + Data` combination and leavarege results. Beyond Python, I also know how to work with SQL, and SAS programming. 
+<br/>
 
+:student: &nbsp; Curiosity: I'm always learning! You can check what I've been learning through courses [here]() and what I've been reading [here](https://github.com/baldoinov/text-books). <br/>
 
-```
-
-&nbsp;&nbsp;&nbsp; :technologist: &nbsp; I'm an economics student with a passion for tech and data. Currently, I work as Data Analytics Intern in Itaú Unibanco S.A. My main activities consist in writing python code to analyze data, automate routines and serve the non-technical people with data.\
-&nbsp;&nbsp;&nbsp; :student: &nbsp; 
 
 # How to reach me
 
