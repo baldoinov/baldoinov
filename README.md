@@ -4,7 +4,7 @@
 # About Me
 
 
-:technologist: &nbsp; I'm an economics student with a passion for tech and data. I put the best of my abilities to generate value from the `Python + Data` combination and leavarege results. Beyond Python, I also know how to work with SQL, and SAS programming. 
+:technologist: &nbsp; I'm an economics student with a passion for tech and data. I put the best of my abilities to generate value from the `Python + Data` combination and leavarege company results. Beyond Python, I also know how to work with SQL, and SAS programming. 
 <br/>
 
 :student: &nbsp; Curiosity: I'm always learning! You can check what I've been reading [here](https://github.com/baldoinov/text-books). <br/>
