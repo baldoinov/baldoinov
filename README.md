@@ -1,13 +1,15 @@
 
 ![Banner](./images/banner.png)
 
+<!--
 # About Me
+-->
 
-
-:technologist: &nbsp; I'm an Economics student with a passion for tech and data. I put the best of my abilities to generate value from the `Python + Data` combination and leverage company results. Beyond Python, I also know how to work with SQL, and SAS programming. 
-<br/>
-
-:student: &nbsp; Curiosity: I'm always learning! You can check what I've been reading [here](https://github.com/baldoinov/text-books). <br/>
+&nbsp; &nbsp; &nbsp; :brazil: &nbsp; &nbsp; São Paulo, Brazil <br/>
+&nbsp; &nbsp; &nbsp; :man_student: &nbsp; Economics student at FEA/USP <br/>
+&nbsp; &nbsp; &nbsp; :technologist: &nbsp; Data Analytics Intern <br/>
+&nbsp; &nbsp; &nbsp; :detective: &nbsp; Heavily interested in Data Science, Data Engineering and Software Engineering <br/>
+&nbsp; &nbsp; &nbsp; :heavy_exclamation_mark: &nbsp; Curiosity: I'm always learning! You can check what I've been reading [here](https://github.com/baldoinov/text-books). <br/>
 
 
 # How to reach me
@@ -33,12 +35,11 @@
 ![](https://img.shields.io/badge/Tools-Microsoft_Excel-informational?style=flat&logo=Microsoft-Excel&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Microsoft_Power_Point-informational?style=flat&logo=Microsoft-PowerPoint&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Microsoft_Word-informational?style=flat&logo=Microsoft-Word&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 
 
 
 <!--
-
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 
 ![](https://img.shields.io/badge/Tools-Power_BI-informational?style=flat&logo=Power-BI&logoColor=white&color=6aa6f8)
 -->
