@@ -26,16 +26,18 @@
 
 # Tools I Use
 
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-pandas-informational?style=flat&logo=pandas&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Microsoft_Office-informational?style=flat&logo=Microsoft-Office&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Microsoft_Excel-informational?style=flat&logo=Microsoft-Excel&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Microsoft_Power_Point-informational?style=flat&logo=Microsoft-PowerPoint&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Microsoft_Word-informational?style=flat&logo=Microsoft-Word&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=164678)
+![](https://img.shields.io/badge/Editor-Jupyter-informational?style=for-the-badge&logo=Jupyter&logoColor=white&color=164678)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=164678)
+![](https://img.shields.io/badge/Tools-pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=164678)
+![](https://img.shields.io/badge/Tools-Tableau-informational?style=for-the-badge&logo=Tableau&logoColor=white&color=164678)
+![](https://img.shields.io/badge/Tools-Microsoft_Office-informational?style=for-the-badge&logo=Microsoft-Office&logoColor=white&color=164678)
+![](https://img.shields.io/badge/Tools-Microsoft_Excel-informational?style=for-the-badge&logo=Microsoft-Excel&logoColor=white&color=164678)
+![](https://img.shields.io/badge/Tools-Microsoft_Power_Point-informational?style=for-the-badge&logo=Microsoft-PowerPoint&logoColor=white&color=164678)
+![](https://img.shields.io/badge/Tools-Microsoft_Word-informational?style=for-the-badge&logo=Microsoft-Word&logoColor=white&color=164678)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=164678)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=164678)
+![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=164678)
 
 
 
