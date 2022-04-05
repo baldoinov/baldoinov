@@ -12,7 +12,8 @@
 &nbsp; &nbsp; &nbsp; :heavy_exclamation_mark: &nbsp; Curiosity: I'm always learning! You can check what I've been reading [here](https://github.com/baldoinov/text-books). <br/>
 
 
-# How to reach me
+## _Social Media_
+
 
 <p>
   <a href="mailto:vdbaldoino@gmail.com?subject=Olá%20Vitor">
@@ -24,7 +25,7 @@
 </p>
 
 
-# Tools I Use
+## _Tools_
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=164678)
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=for-the-badge&logo=Jupyter&logoColor=white&color=164678)
@@ -39,9 +40,15 @@
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=164678)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=164678)
 
+***
 
+<div align="center">
+  <a href="https://github.com/baldoinov">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldoinov&layout=compact&langs_count=7&theme=default"/>
+</div>
 
 <!--
 
 ![](https://img.shields.io/badge/Tools-Power_BI-informational?style=flat&logo=Power-BI&logoColor=white&color=6aa6f8)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=baldoinov&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 -->
