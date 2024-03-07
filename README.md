@@ -1,19 +1,20 @@
-
-![Banner](./images/banner.png)
+# Hi! I'm Vitor!
 
 <!--
 # About Me
 -->
 
-&nbsp; &nbsp; &nbsp; :brazil: &nbsp; &nbsp; São Paulo, Brazil <br/>
-&nbsp; &nbsp; &nbsp; :man_student: &nbsp; Economics student at FEA/USP <br/>
-&nbsp; &nbsp; &nbsp; :technologist: &nbsp; Data Analytics Intern <br/>
-&nbsp; &nbsp; &nbsp; :detective: &nbsp; Heavily interested in Data Science, Data Engineering and Software Engineering <br/>
-&nbsp; &nbsp; &nbsp; :heavy_exclamation_mark: &nbsp; Curiosity: I'm always learning! You can check what I've been reading [here](https://github.com/baldoinov/text-books). <br/>
+- São Paulo, Brazil
+- Economist + Data Scientist
+- You can check what I've been reading [here](https://github.com/baldoinov/text-books).
+
+```
+Arrakis teaches the attitude of the knife - chopping off what's incomplete and saying: 'Now, it's complete because it's ended here.'
+```
+
 
 
 ## _Social Media_
-
 
 <p>
   <a href="mailto:vdbaldoino@gmail.com?subject=Olá%20Vitor">
