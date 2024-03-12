@@ -9,7 +9,8 @@
 - You can check what I've been reading [here](https://github.com/baldoinov/text-books).
 
 ```
-Arrakis teaches the attitude of the knife - chopping off what's incomplete and saying: 'Now, it's complete because it's ended here.'
+Arrakis teaches the attitude of the knife - chopping off what's incomplete and saying:
+'Now, it's complete because it's ended here.'
 ```
 
 
