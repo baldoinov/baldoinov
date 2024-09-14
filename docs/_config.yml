@@ -3,8 +3,8 @@
 title: Vitor Baldoino
 description: Data Scientist | Economist
 
-baseurl: /baldoinov/docs/ #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: /baldoinov/docs              #name of GitHub repository
+url: "https://vitorbaldoino.com" #custom url to be used instead of GitHub repository
 email: vdbaldoino@gmail.com
 
 # Pagination
