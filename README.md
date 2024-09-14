@@ -25,6 +25,6 @@ Arrakis teaches the attitude of the knife - chopping off what's incomplete and s
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,bash,cmake,latex,linux,mint,md,mysql,obsidian,py,pytorch,sklearn,r,sqlite,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,docker,bash,cmake,latex,linux,mint,md,mysql,obsidian,py,pytorch,sklearn,r,sqlite,vscode&perline=12" />
   </a>
 </p>
