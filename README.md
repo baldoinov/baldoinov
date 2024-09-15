@@ -4,9 +4,8 @@
 # About Me
 -->
 
-- São Paulo, Brazil
+- Brazil
 - Economist + Data Scientist
-- You can check what I've been reading [here](https://github.com/baldoinov/text-books).
 
 ```
 Arrakis teaches the attitude of the knife - chopping off what's incomplete and saying:
